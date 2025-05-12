@@ -7,5 +7,6 @@ public class CalculSimplu {
         System.out.println("Produsul: " + (a * b));
         System.out.println("Aceasta este o demonstrație simplă.");
         System.out.println("Program terminat cu succes.");
+        System.out.println("Program terminat cu successsss.");
     }
 }
